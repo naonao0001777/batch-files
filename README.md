@@ -1,5 +1,5 @@
 # SQLServerデータベース復元バッチ
-SQLCMD.exeを使用したばっち
+sqlserver-restore-database.bat
 
 # がいよう
 業務で何回もやるから作成したが、誰も使わないからこっちで研究するために作成したリポジトリ  
